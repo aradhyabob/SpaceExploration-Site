@@ -13,6 +13,9 @@ body {
     font-family: inherit;
 }
 
-.underline {
+#main-logo {
+    width: 100px;
+}
+#underline {
     border-bottom: 4px solid white;
 }
